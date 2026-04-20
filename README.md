@@ -1,5 +1,7 @@
 # community-knowledge-base
 
+一个面向新手的 Web3 入门知识库，重点放在风险边界、上手路径和基础工具准备。
+
 A public-facing Web3 beginner knowledge base focused on practical onboarding, risk awareness, and basic tool setup.
 
 ## What this repository is
