@@ -41,10 +41,11 @@
 4. 再看 `docs/03-wallet/`
 5. 最后把 `docs/04-tools/` 和 `docs/05-extra/` 当作补充材料
 
-如果你只想先看 3 篇，建议先看：
-- `docs/00-start-here/新手阅读顺序：先看什么，后看什么.md`
-- `docs/00-start-here/如何投资理财（实操步骤）.md`
-- `docs/00-start-here/Web3投资注意事项.md`
+如果你只想先看 4 篇，建议按这个顺序看：
+- `docs/00-start-here/01-新手阅读顺序：先看什么，后看什么.md`
+- `docs/00-start-here/02-如何投资理财（实操步骤）.md`
+- `docs/00-start-here/03-开始买之前，先搞懂的5个问题.md`
+- `docs/00-start-here/04-Web3投资注意事项.md`
 
 ## 仓库结构
 
