@@ -1,85 +1,48 @@
 # community-knowledge-base
 
-一个面向新手的 Web3 入门知识库，重点放在风险边界、上手路径和基础工具准备。
+A public-facing Web3 beginner knowledge base focused on practical onboarding, risk awareness, and basic tool setup.
 
-## 这是什么
+## What this repository is
 
-这个仓库是知识库的公开内容层，主要包含：
-- `docs/` 下的入门文章
-- `assets/images/` 下的配图和截图
-- `structure/toc.md` 中的阅读顺序
-- `changelog/updates.md` 中的更新记录
+This repository contains the public content layer of the knowledge base:
+- beginner-friendly Markdown docs under `docs/`
+- supporting article images under `assets/images/`
+- a reading-path table of contents under `structure/toc.md`
+- change notes under `changelog/updates.md`
 
-目标不是做一个“信息很多”的仓库，而是做一个**更适合新手按路径阅读、逐步上手**的知识库。
+The goal is to make the content easier to read, version, migrate, and improve over time.
 
-## 适合谁看
+## Who this is for
 
-这个仓库主要适合：
-- 想系统了解 Web3 基础路径的新手
-- 不想被碎片信息和噪音带着跑的人
-- 更偏好“先理解边界，再开始操作”的读者
-- 想把知识内容沉淀成文件资产的人
+This repository is primarily for:
+- beginners who want a structured path into Web3
+- people who prefer practical, lower-noise explanations
+- maintainers who want a file-based content layer instead of locking everything into one platform
 
-## 你能在这里看到什么
+## Repository structure
 
-主要内容分成这几个部分：
+- `docs/` — core articles organized by reading path
+- `assets/images/` — article images and screenshots
+- `structure/toc.md` — reading order / table of contents
+- `changelog/updates.md` — notable repository updates
 
-- `docs/00-start-here/` —— 阅读顺序、风险边界、起步认知
-- `docs/01-get-started/` —— 交易所基础与账户准备
-- `docs/02-first-buy/` —— 第一笔怎么买、先买什么
-- `docs/03-wallet/` —— 钱包基础与下载准备
-- `docs/04-tools/` —— 浏览器、AI 工具与效率工具
-- `docs/05-extra/` —— 补充玩法与延伸内容
+## Reading path
 
-## 推荐阅读顺序
+Suggested order:
+1. Start with `docs/00-start-here/`
+2. Then move to `docs/01-get-started/`
+3. Continue with `docs/02-first-buy/`
+4. Then `docs/03-wallet/`
+5. Finally use `docs/04-tools/` and `docs/05-extra/` as supporting material
 
-建议按下面的顺序读：
+## Notes
 
-1. 先看 `docs/00-start-here/`
-2. 再看 `docs/01-get-started/`
-3. 然后看 `docs/02-first-buy/`
-4. 再看 `docs/03-wallet/`
-5. 最后把 `docs/04-tools/` 和 `docs/05-extra/` 当作补充材料
+- This public repository only contains the public content layer.
+- Internal export workflows, publishing adapters, and platform-specific intermediate files are intentionally excluded.
+- Some articles reference product interfaces that may change over time. When in doubt, verify against the current official product pages.
 
-如果你只想先看 4 篇，建议按这个顺序看：
-- `docs/00-start-here/01-新手阅读顺序：先看什么，后看什么.md`
-- `docs/00-start-here/02-如何投资理财（实操步骤）.md`
-- `docs/00-start-here/03-开始买之前，先搞懂的5个问题.md`
-- `docs/00-start-here/04-Web3投资注意事项.md`
+## Disclaimer
 
-## 仓库结构
-
-- `docs/` —— 按阅读路径整理的核心正文
-- `assets/images/` —— 文章配图和截图
-- `structure/toc.md` —— 目录与阅读顺序
-- `changelog/updates.md` —— 仓库更新记录
-
-## 注意事项
-
-- 这是公开内容层，不包含内部导出流程和平台适配中间文件。
-- 部分文章引用的产品界面、注册步骤、工具截图，未来可能会变化。
-- 仓库里的外部链接带有时效性，真正操作前请再次核对是否仍为官方入口。
-- 涉及注册、下载、钱包、交易等动作时，请自己复核链接、页面和安全设置。
-
-## 免责声明
-
-这个仓库仅用于教育和信息整理用途。
-
-它不是：
-- 投资建议
-- 法律建议
-- 税务建议
-- 安全建议
-
-这里的内容不应被视为对买入、卖出、注册、安装或转账等行为的直接建议。
-任何实际操作前，请自己确认：
-- 链接是否仍然正确
-- 平台是否仍然可用
-- 账户安全设置是否完整
-- 风险是否在自己可承受范围内
-
-## 关于贡献
-
-这个仓库目前更像一个经过整理的知识库，而不是开放式 wiki。
-
-如果你想 fork、改写或继续扩展，请先阅读许可证，并在复用前自行完成风险核对。
+This repository is for educational and informational purposes only.
+It is not investment advice, legal advice, tax advice, or security advice.
+Always verify links, product details, and risk assumptions before taking action.
